@@ -4,5 +4,6 @@ package java8;
 public interface FIAddTwoNumber {
 	
 	public int add(int a, int b);
+	
 
 }
